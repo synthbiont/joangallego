@@ -1,0 +1,65 @@
+# Conferences
+# comment out the urls if you do not wish to display them
+
+- event: 19<sup>th</sup> Mexican Congress of Biotechnology and Bioengineering
+  url: https://smbb.mx/congreso-actual/
+  # organizer: Mexican Society of Biotechnology and Bioengineering, MX
+  year: Oct 2021 (planned)
+  type: Oral presentation
+  summary: Scale-up of the <i>ex vivo</i> production of red blood cells for transfusion purposes.
+
+
+- event: 13<sup>th</sup> European Congress of Chemical Engineering and 6<sup>th</sup> European Congress of Applied Biotechnology (ECCE & ECAB)
+  url: https://ecce-ecab2021.eu/
+  # organizer: 
+  year: Sep 2021 (planned)
+  type: Oral presentation
+  summary: Scale-up of the <i>ex vivo</i> production of red blood cells for transfusion purposes.
+
+
+- event: 8<sup>th</sup> Conference on Metabolic Pathway Analysis
+  url: https://mpa2021.utk.edu/
+  # organizer: University of Tenneessee, Knoxville, US
+  year: Aug 2021
+  type: Oral presentation
+  summary: Metabolic profiling of cultured erythroblasts for the large scale production of red blood cells.
+
+
+- event: International Society for Stem Cell Resarch (ISSCR) Annual Meeting
+  url: https://www.isscr.org/meetings-events/annual-meetings/isscr-annual-meeting-2021
+  # organizer: ISSCR
+  year: Jun 2021
+  type: Poster presentation
+  summary: Upscaling of <i>ex vivo</i> production of red blood cells for transfusion purposes.
+
+
+- event: Applikon Webinar Series
+  url: https://www.applikon-biotechnology.com/en/academy/webinars/september/from-cell-biology-and-modelling-to-technology-for-high-cell-density-cultivation-of-erythroblasts/
+  # organizer: Applikon Biotechnology, NL
+  year: Sep 2020
+  type: Oral presentation
+  summary: From cell biology and modelling to technology for high cell density cultivations of erythroblasts.
+
+
+- event: Scientific discussions on Clinical Hematology
+  # url: 
+  # organizer: Amsterdam Medical Center (AMC), NL
+  year: Oct 2019
+  type: Oral presentation
+  summary: Upscaling the <i>ex vivo</i> expansion of erythroblasts.
+
+
+- event: 15<sup>th</sup> Annual Conference of the Metabolomics Society
+  url: http://metabolomics2019.org/
+  # organizer: Amsterdam Medical Center (AMC), NL
+  year: Jun 2019
+  type: Poster presentation
+  summary: Metabolomics analysis reveals depletion of key intermediates in oxidative stress-related pathways in high cell density erythroblast cultures.
+
+
+- event: Bioinformatics and Systems Biology (BioSB) Conference
+  url: https://www.aanmelder.nl/biosb2019
+  # organizer: BioSB, NL
+  year: Apr 2019
+  type: Poster presentation
+  summary: Metabolomics analysis of high cell density erythroblast cultures9&colon; small molecules trigger cellular oxidative stress.

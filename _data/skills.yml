@@ -1,12 +1,20 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Programming languages
+- skill: Programming languages
+  description: MATLAB (advanced), R (intermediate), Python (basic), Java (basic).
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Engineering software
+- skill: Engineering software
+  description: COMSOL, SuperPro Designer, Aspen Plus, Aspen HYSYS, GAMS.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Other software
+- skill: Other software
+  description: FlowJo (flow cytometry), Lucullus PIMS (recipes for reactor cultivations), MetaboAnalystR.
+
+# Laboratory
+- skill: Laboratory
+  description: Mammalian cell culture of suspension cell lines, cultivations in stirred tank reactors (0.5 L - 10 L), flow cytometry, microplate-based growth assays, molecular biology techniques for construction of <i>E. coli</i> and <i>Saccharomyces</i> strains, HPLC, atomic absorption spectroscopy, western blots.
+
+# Languages
+- skill: Languages
+  description: Spanish (Native), English (TOEFL iBT 113/120), Dutch (A2).

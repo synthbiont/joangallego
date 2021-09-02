@@ -13,7 +13,7 @@
 
         <!-- You can turn off the avatar in _config.yml by setting to false -->
         {% if site.resume_avatar == 'true' %}
-        <img src="images/avatar.jpg" alt="my photo" class="avatar no-print" itemprop="image">
+        <img src="images/avatar.png" alt="my photo" class="avatar no-print" itemprop="image">
         {% endif %}
 
         <!-- Your name is defined in the _config.yml file -->
@@ -195,6 +195,46 @@
       <!-- end Interests -->
       {% endif %}
 
+      {% if site.resume_section_publications %}
+      <!-- begin Publications -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Publications and patents</h2>
+        </header>
+
+        <div class="resume-item">
+          <ul class="resume-item-list">
+            {% for publication in site.data.publications %}
+            <li>{{ publication.description }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+
+      </section>
+      <!-- end Publications -->
+      {% endif %}
+
+      {% if site.resume_section_conferences %}
+      <!-- begin Conferences -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Presentations in conferences</h2>
+        </header>
+
+        {% for conference in site.data.conferences %}
+        <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Event">
+          <h3 class="resume-item-details" itemprop="name">{% if conference.url %}<a href="{{ conference.url }}">{{ conference.event }}</a>{% else %}{{ conference.event }}{% endif %} &bull; {{ conference.year }}</h3>
+          <h4 class="resume-item-details" itemprop="description">{{ conference.organizer }}</h4>
+          <p class="resume-item-copy">{{ conference.type }} &mdash; {{ conference.summary }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Conferences -->
+      {% endif %}
+
       {% if site.resume_section_links %}
       <!-- begin Links -->
       <section class="content-section">
@@ -232,8 +272,8 @@
       {% endif %}
 
       <footer class="page-footer">
-        <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
-        <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
+        <p class="footer-line">Made using Jekyll and a modified version of the theme created by <a href="http://twitter.com/jglovier">@jglovier</a>.</p>
+        <p class="footer-line">S Y N T H B I O N T</p>
       </footer>
 
     </div>

@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Joan Gallego Webpage"
+description: "Personal webpage of Joan Gallego."
 
 # Build settings
 markdown: kramdown
@@ -10,20 +10,20 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
-resume_title:                   "VP of Global Communications"
+resume_name:                    "Joan Sebastián Gallego Murillo"
+resume_title:                   "Bioprocess engineer • Chemical engineer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "jsgallegom@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "(+31) 6 1381 0297"
+resume_contact_address:         "Roland Holstlaan 1067, Delft, The Netherlands"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+resume_header_contact_info:     "Roland Holstlaan 1067, Delft, The Netherlands • (+31) 6 1381 0297 • jsgallegom@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>I am a PhD candidate at the Delft University of Technology developing and scaling up a cultivation system for the production of cultured red blood cells. My work and academic experience has been shaped by the idea of building bridges: connecting lab work to modeling and simulations, cell biology knowledge to biochemical engineering, and fundamental research to process optimization. I am passionate about bringing science fiction ideas to reality using biotechnology.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -35,24 +35,27 @@ resume_looking_for_work:        "yes"
 # comment out to hide
 resume_section_experience:      true
 resume_section_education:       true
-resume_section_projects:        true
+resume_section_projects:        false
 resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
-# resume_section_interests:       true
+resume_section_recognition:     false
+resume_section_links:           false
+resume_section_associations:    false
+resume_section_interests:       true
+resume_section_publications:    true
+resume_section_conferences:     true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_github_url:            "https://github.com/synthbiont"
+  # resume_twitter_url:           "http://twitter.com/joangallego"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/joangallego"
+  # resume_instagram_url:         "https://instagram.com/joangallego"
+  resume_website_url:           "http://joangallego.com"
+  # resume_medium_url:            "https://medium.com/@jglovier"
+  resume_orcid_url:             "https://orcid.org/0000-0003-2381-2012"
 resume_print_social_links:      true
 
 # Design settings

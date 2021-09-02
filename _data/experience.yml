@@ -1,19 +1,41 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# PhD candidate
+- company: Sanquin Blood Supply & Delft University of Technology (NL)
+  position: PhD Candidate
+  duration: Nov, 2017 &mdash; Present
+  summary: Collaboration project between the Department of Hematopoiesis at Sanquin, and the Bioprocess Engineering section at TU Delft aiming to scale-up the production of cultured red blood cells for transfusion purposes.<ul class="resume-item-list"><li>Scaled-up human erythroblast cultures from static culture dishes to 500 mL and 3 L stirred tank bioreactors.</li><li>Developed a perfusion cultivation method using acoustic cell retention, leading to a 5X increase in maximum cell concentrations.</li><li>Determined nutrient requirements of cultured human erythroblasts using a metabolomics approach.</li><li>Reduced culture medium cost (-35%) replacing transferrin by a low-cost organic iron chelator.</li><li>Participated in the translation of the developed upstream protocols to a new GMP facility at Sanquin's Laboratory of Cellular Therapies for the large scale production of cultured red blood cells.</li><li>Supervised 6 master students during their thesis, and a lab technician.</li><li>Collaborations with Applikon Biotechnology, University of Colorado Anschutz Medical Campus, and VU Amsterdam (Systems Biology Lab).</li></ul>
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# MSc Internship
+- company: BioscienZ (NL)
+  position: Bioprocess Technology Intern
+  duration:  May, 2017 &mdash; Sep, 2017
+  summary: <ul class="resume-item-list"><li>Screened fungal strains for the production of microbial animal feed, based on high biomass yield, ability to grow on a wide range of carbon sources, tolerance to low pH and high temperature, and high protein content.</li><li>Cultivated selected strains on 10 L stirred tank reactors and 12 L bubble column under batch and fed-batch modes.</li><li>Optimized dewatering conditions for improved processing of biomass (filtration, pressing and fluid bed drying).</li><li>Internship results ultimately led to the patent <a href="https://worldwide.espacenet.com/publicationDetails/biblio?CC=WO&NR=2018029353A1&KC=A1&FT=D">EP3497203A1</a> (co-inventor).</li></ul>
+
+
+# Master thesis
+- company: Delft University of Technology (NL)
+  position: Researcher as Master Student
+  duration:   Aug, 2016  &mdash; May, 2017
+  summary: Work for the Master End Project, in the Industrial Microbiology (IMB) research group. Work under the supervision of Jean-Marc Daran and Anja Brickwedde.<ul class="resume-item-list"><li>Constructed several <i>Saccharomyces</i> strains for the characterization of sugar transporters</li><li>Characterized the constructed strains under different temperature and substrate compositions using microplate and shake flask assays.</li></ul>
+
+
+# Work with Sergio Barrera (Uniandes)
+- company: Universidad de los Andes (CO)
+  position: Graduate Research Assistant
+  duration:   Aug, 2013  &mdash; Aug, 2015
+  summary: Assistance to a master student on their project <i>Water physical chemistry and its relationship with atmospheric electricity</i>.<ul class="resume-item-list"><li>Performed analysis of the ozone asymmetry around Antarctica using spherical statistics.</li><li>Participated in the design of an experimental set-up to monitor pH and conductivity while freezing ultra-pure water without contamination with carbon dioxide, ammonia and other gas impurities.</li><li>Contributed to the development of a new model of the relationship between water freezing and atmospheric electricity.</li></ul>
+
+
+# Carnegie Mellon
+- company: Carnegie Mellon University (US)
+  position: Visiting Scholar
+  duration:   Jan, 2012  &mdash; May, 2012
+  summary: Research work in the Civil Engineering Department under the supervision of Kelvin Gregory on the environmental effect of nanoparticles. I measured the interactions between nanoparticles (titanium oxide, silver) and dissolved organic matter, and their toxicology mechanism at the microbial level using techniques such as HPLC, atomic absorption spectroscopy, and toxicity assays.</ul>
+
+
+# Teaching assistant at Uniandes
+- company: Universidad de los Andes (CO)
+  position: Undergraduate Teaching Assistant
+  duration:   2008  &mdash; 2013
+  summary: Teaching assistant of six courses in the departments of Chemical Eng., Environmental Eng., and Microbiology (Genomics and bioinformatics, Unit operations, Wastewater treatment, Hydraulics, Modeling and numerical analysis, and Algorithmic and object-oriented programming).<ul class="resume-item-list"><li>Designed assignments, quizzes and exams according to the curriculum of the courses.</li><li>Conducted weekly practical lessons and discussion sessions for 20-60 students.</li><li>Assisted in the standardization of the grading system of some courses according to the requirements for the ABET certification.</li></ul>
