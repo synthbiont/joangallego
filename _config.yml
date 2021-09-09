@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Joan Sebastián Gallego Murillo"
+resume_name:                    "Joan Sebastián<br/>Gallego Murillo"
 resume_title:                   "Bioprocess engineer • Chemical engineer"
 
 # used for the contact button in _layouts/resume.html
