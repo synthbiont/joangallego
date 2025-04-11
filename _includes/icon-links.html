@@ -49,5 +49,10 @@
   <li class="icon-link-item"><a href="{{ site.resume_social_links.resume_orcid_url }}" class="icon-link" itemprop="sameAs">{% include icons/icon-orcid.html %}</a></li>
   {% endif %}
 
+  <!-- Language link -->
+  {% if site.resume_social_links.resume_spanish_url %}
+  <li class="icon-link-item"><a href="{{ site.resume_social_links.resume_spanish_url }}" class="icon-link" itemprop="sameAs">{% include icons/icon-language.html %}</a></li>
+  {% endif %}
+  
 </ul>
 {% endif %}
