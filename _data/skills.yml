@@ -1,19 +1,19 @@
 # Skills
 # Programming languages
 - skill: Programming languages
-  description: MATLAB (advanced), R (intermediate), Python (basic), Java (basic).
+  description: MATLAB (advanced), Julia (intermediate), R (intermediate), Python (basic), Java (basic).
 
 # Engineering software
 - skill: Engineering software
-  description: COMSOL, SuperPro Designer, Aspen Plus, Aspen HYSYS, GAMS.
+  description: COMSOL, M-STAR, SuperPro Designer, Aspen Plus, Aspen HYSYS, GAMS.
 
 # Other software
 - skill: Other software
-  description: FlowJo (flow cytometry), Lucullus PIMS (recipes for reactor cultivations), MetaboAnalystR.
+  description: FlowJo (flow cytometry), Lucullus (recipes for reactor cultivations), MetaboAnalystR, Minitab, CloneManager.
 
 # Laboratory
 - skill: Laboratory
-  description: Mammalian cell culture of suspension cell lines, cultivations in stirred tank reactors (0.5 L - 10 L), flow cytometry, microplate-based growth assays, molecular biology techniques for construction of <i>E. coli</i> and <i>Saccharomyces</i> strains, HPLC, atomic absorption spectroscopy, western blots.
+  description: Mammalian cell culture of suspension- and aggregate-based cell lines, cultivation in stirred tank bioreactors (0.2 L – 50 L), flow cytometry, microplate-based growth assays, molecular biology techniques for construction of <i>E. coli</i> and <i>Saccharomyces</i> strains, western blots, HPLC, atomic absorption spectroscopy.
 
 # Languages
 - skill: Languages
