@@ -14,13 +14,13 @@ resume_name:                    "Joan Sebastián<br/>Gallego Murillo"
 resume_title:                   "Bioprocess engineer • Chemical engineer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "jsgallegom@gmail.com"
+resume_contact_email:           "jsgallegom[at]outlook.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "(+31) 6 1381 0297"
-resume_contact_address:         "Roland Holstlaan 1067, Delft, The Netherlands"
+resume_contact_telephone:       "(+57) 317 1406083"
+resume_contact_address:         "Bogotá, Colombia"
 
-resume_header_contact_info:     "Roland Holstlaan 1067, Delft, The Netherlands • (+31) 6 1381 0297 • jsgallegom@gmail.com"
+resume_header_contact_info:     "Bogotá, Colombia • (+57) 317 1406083 • jsgallegom[at]outlook.com"
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p>PhD Bioprocess Engineer with 7 years of experience in scaling up cultivation systems, including the optimization of media formulations and the development of feeding strategies to reduce operating costs. I have worked with bacterial, yeast, fungal and animal cell cultures. My work and academic experience has been shaped by the idea of building bridges: connecting lab work to modeling and simulations, cell biology knowledge to biochemical engineering, and fundamental research to process optimization. I am passionate about bringing science fiction ideas to reality using biotechnology.</p>"
