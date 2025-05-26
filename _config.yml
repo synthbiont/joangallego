@@ -14,7 +14,7 @@ resume_name:                    "Joan Sebastián<br/>Gallego Murillo"
 resume_title:                   "Bioprocess engineer • Chemical engineer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "jsgallegom[at]outlook.com"
+resume_contact_email:           "info@joangallego.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "(+57) 317 1406083"
