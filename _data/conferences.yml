@@ -6,7 +6,7 @@
   # organizer: Mexican Society of Biotechnology and Bioengineering, MX
   year: Oct 2021
   type: Oral presentation
-  summary: Scale-up of the <i>ex vivo</i> production of red blood cells for transfusion purposes. Full program of the congress available <a href="_assets/documents/SMBB2021-programa.pdf">here</a>.
+  summary: Scale-up of the <i>ex vivo</i> production of red blood cells for transfusion purposes. Full program of the congress available <a href="pdfs/SMBB2021-programa.pdf">here</a>.
 
 
 - event: 13<sup>th</sup> European Congress of Chemical Engineering and 6<sup>th</sup> European Congress of Applied Biotechnology (ECCE & ECAB)
@@ -14,23 +14,23 @@
   # organizer: 
   year: Sep 2021
   type: Oral presentation
-  summary: Scale-up of the <i>ex vivo</i> production of red blood cells for transfusion purposes.
+  summary: Scale-up of the <i>ex vivo</i> production of red blood cells for transfusion purposes. Participation certifivate available <a href="pdfs/ecce-eccab2021-participation.pdf">here</a>
 
 
 - event: 8<sup>th</sup> Conference on Metabolic Pathway Analysis
-  url: https://mpa2021.utk.edu/
+  url: https://web.archive.org/web/20220126102754/https://mpa2021.utk.edu/schedule/
   # organizer: University of Tenneessee, Knoxville, US
   year: Aug 2021
   type: Oral presentation
-  summary: Metabolic profiling of cultured erythroblasts for the large scale production of red blood cells.
+  summary: Metabolic profiling of cultured erythroblasts for the large scale production of red blood cells. Full program of the conference available <a href="pdfs/MPA2021-program.pdf">here</a>.
 
 
 - event: International Society for Stem Cell Resarch (ISSCR) Annual Meeting
-  url: https://www.isscr.org/meetings-events/annual-meetings/isscr-annual-meeting-2021
+  url: https://web.archive.org/web/20210623101029/https://www.isscr.org/meetings-events/annual-meetings/isscr-annual-meeting-2021
   # organizer: ISSCR
   year: Jun 2021
   type: Poster presentation
-  summary: Upscaling of <i>ex vivo</i> production of red blood cells for transfusion purposes.
+  summary: Upscaling of <i>ex vivo</i> production of red blood cells for transfusion purposes. Abstract book of the meeting available <a href="pdfs/ISSCR2021-Posterguide.pdf">here</a>.
 
 
 - event: Applikon Webinar Series
@@ -50,16 +50,16 @@
 
 
 - event: 15<sup>th</sup> Annual Conference of the Metabolomics Society
-  url: http://metabolomics2019.org/
+  url: https://web.archive.org/web/20200202180436/https://metabolomics2019.org/
   # organizer: Amsterdam Medical Center (AMC), NL
   year: Jun 2019
   type: Poster presentation
-  summary: Metabolomics analysis reveals depletion of key intermediates in oxidative stress-related pathways in high cell density erythroblast cultures.
+  summary: Metabolomics analysis reveals depletion of key intermediates in oxidative stress-related pathways in high cell density erythroblast cultures. Abstract book of the conference available <a href="pdfs/Metabolomics2019-abstracts.pdf">here</a>.
 
 
 - event: Bioinformatics and Systems Biology (BioSB) Conference
-  url: https://www.aanmelder.nl/biosb2019
+  url: https://web.archive.org/web/20211024120849/https://www.aanmelder.nl/biosb2019
   # organizer: BioSB, NL
   year: Apr 2019
   type: Poster presentation
-  summary: Metabolomics analysis of high cell density erythroblast cultures9&colon; small molecules trigger cellular oxidative stress.
+  summary: Metabolomics analysis of high cell density erythroblast cultures9&colon; small molecules trigger cellular oxidative stress. Abstract book of the conference available <a href="pdfs/BioSB2019-posterlist.pdf">here</a>.
